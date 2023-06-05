@@ -6,12 +6,6 @@ let ALLPLAYERS = [
     teamId: 1610612748,
   },
   {
-    firstName: "Jaylen",
-    lastName: "Adams",
-    playerId: 1629121,
-    teamId: 0,
-  },
-  {
     firstName: "Steven",
     lastName: "Adams",
     playerId: 203500,
@@ -28,12 +22,6 @@ let ALLPLAYERS = [
     lastName: "Aldridge",
     playerId: 200746,
     teamId: 0,
-  },
-  {
-    firstName: "Ty-Shon",
-    lastName: "Alexander",
-    playerId: 1630234,
-    teamId: 1610612756,
   },
   {
     firstName: "Nickeil",
@@ -54,12 +42,6 @@ let ALLPLAYERS = [
     teamId: 1610612739,
   },
   {
-    firstName: "Al-Farouq",
-    lastName: "Aminu",
-    playerId: 202329,
-    teamId: 1610612741,
-  },
-  {
     firstName: "Kyle",
     lastName: "Anderson",
     playerId: 203937,
@@ -70,12 +52,6 @@ let ALLPLAYERS = [
     lastName: "Antetokounmpo",
     playerId: 203507,
     teamId: 1610612749,
-  },
-  {
-    firstName: "Kostas",
-    lastName: "Antetokounmpo",
-    playerId: 1628961,
-    teamId: 1610612747,
   },
   {
     firstName: "Thanasis",
@@ -96,24 +72,6 @@ let ALLPLAYERS = [
     teamId: 1610612753,
   },
   {
-    firstName: "OG",
-    lastName: "Anunoby",
-    playerId: 1628384,
-    teamId: 1610612761,
-  },
-  {
-    firstName: "Ryan",
-    lastName: "Arcidiacono",
-    playerId: 1627853,
-    teamId: 1610612741,
-  },
-  {
-    firstName: "Trevor",
-    lastName: "Ariza",
-    playerId: 2772,
-    teamId: 1610612748,
-  },
-  {
     firstName: "D.J.",
     lastName: "Augustin",
     playerId: 201571,
@@ -130,12 +88,6 @@ let ALLPLAYERS = [
     lastName: "Ayton",
     playerId: 1629028,
     teamId: 1610612756,
-  },
-  {
-    firstName: "Udoka",
-    lastName: "Azubuike",
-    playerId: 1628962,
-    teamId: 1610612762,
   },
   {
     firstName: "Dwayne",
@@ -204,12 +156,6 @@ let ALLPLAYERS = [
     teamId: 1610612746,
   },
   {
-    firstName: "Aron",
-    lastName: "Baynes",
-    playerId: 203382,
-    teamId: 1610612761,
-  },
-  {
     firstName: "Kent",
     lastName: "Bazemore",
     playerId: 203145,
@@ -234,18 +180,6 @@ let ALLPLAYERS = [
     teamId: 1610612750,
   },
   {
-    firstName: "Jordan",
-    lastName: "Bell",
-    playerId: 1628395,
-    teamId: 1610612744,
-  },
-  {
-    firstName: "DeAndre'",
-    lastName: "Bembry",
-    playerId: 1627761,
-    teamId: 1610612761,
-  },
-  {
     firstName: "Davis",
     lastName: "Bertans",
     playerId: 202722,
@@ -262,12 +196,6 @@ let ALLPLAYERS = [
     lastName: "Bey",
     playerId: 1630180,
     teamId: 1610612765,
-  },
-  {
-    firstName: "Tyler",
-    lastName: "Bey",
-    playerId: 1630189,
-    teamId: 1610612742,
   },
   {
     firstName: "Khem",
@@ -300,12 +228,6 @@ let ALLPLAYERS = [
     teamId: 1610612740,
   },
   {
-    firstName: "Keljin",
-    lastName: "Blevins",
-    playerId: 1629833,
-    teamId: 1610612757,
-  },
-  {
     firstName: "Bogdan",
     lastName: "Bogdanovic",
     playerId: 203992,
@@ -316,24 +238,6 @@ let ALLPLAYERS = [
     lastName: "Bogdanovic",
     playerId: 202711,
     teamId: 1610612762,
-  },
-  {
-    firstName: "Bol",
-    lastName: "Bol",
-    playerId: 1629626,
-    teamId: 1610612743,
-  },
-  {
-    firstName: "Marques",
-    lastName: "Bolden",
-    playerId: 1629716,
-    teamId: 0,
-  },
-  {
-    firstName: "Jordan",
-    lastName: "Bone",
-    playerId: 1629648,
-    teamId: 0,
   },
   {
     firstName: "Isaac",
@@ -354,34 +258,10 @@ let ALLPLAYERS = [
     teamId: 1610612761,
   },
   {
-    firstName: "Brian",
-    lastName: "Bowen II",
-    playerId: 1628968,
-    teamId: 0,
-  },
-  {
     firstName: "Avery",
     lastName: "Bradley",
     playerId: 202340,
     teamId: 1610612745,
-  },
-  {
-    firstName: "Tony",
-    lastName: "Bradley",
-    playerId: 1628396,
-    teamId: 1610612760,
-  },
-  {
-    firstName: "Jarrell",
-    lastName: "Brantley",
-    playerId: 1629714,
-    teamId: 1610612762,
-  },
-  {
-    firstName: "Ignas",
-    lastName: "Brazdeikis",
-    playerId: 1629649,
-    teamId: 1610612753,
   },
   {
     firstName: "Mikal",
@@ -396,12 +276,6 @@ let ALLPLAYERS = [
     teamId: 1610612766,
   },
   {
-    firstName: "Amida",
-    lastName: "Brimah",
-    playerId: 1628578,
-    teamId: 1610612754,
-  },
-  {
     firstName: "Oshae",
     lastName: "Brissett",
     playerId: 1629052,
@@ -412,12 +286,6 @@ let ALLPLAYERS = [
     lastName: "Brogdon",
     playerId: 1627763,
     teamId: 1610612754,
-  },
-  {
-    firstName: "Armoni",
-    lastName: "Brooks",
-    playerId: 1629717,
-    teamId: 1610612745,
   },
   {
     firstName: "Dillon",
@@ -438,24 +306,6 @@ let ALLPLAYERS = [
     teamId: 1610612738,
   },
   {
-    firstName: "Moses",
-    lastName: "Brown",
-    playerId: 1629650,
-    teamId: 1610612760,
-  },
-  {
-    firstName: "Sterling",
-    lastName: "Brown",
-    playerId: 1628425,
-    teamId: 1610612745,
-  },
-  {
-    firstName: "Charlie",
-    lastName: "Brown Jr.",
-    playerId: 1629718,
-    teamId: 1610612760,
-  },
-  {
     firstName: "Troy",
     lastName: "Brown Jr.",
     playerId: 1628972,
@@ -466,12 +316,6 @@ let ALLPLAYERS = [
     lastName: "Brunson",
     playerId: 1628973,
     teamId: 1610612742,
-  },
-  {
-    firstName: "Elijah",
-    lastName: "Bryant",
-    playerId: 1629091,
-    teamId: 1610612749,
   },
   {
     firstName: "Thomas",
@@ -504,28 +348,10 @@ let ALLPLAYERS = [
     teamId: 1610612748,
   },
   {
-    firstName: "Bruno",
-    lastName: "Caboclo",
-    playerId: 203998,
-    teamId: 0,
-  },
-  {
-    firstName: "Devontae",
-    lastName: "Cacok",
-    playerId: 1629719,
-    teamId: 1610612747,
-  },
-  {
     firstName: "Kentavious",
     lastName: "Caldwell-Pope",
     playerId: 203484,
     teamId: 1610612747,
-  },
-  {
-    firstName: "Facundo",
-    lastName: "Campazzo",
-    playerId: 1630267,
-    teamId: 1610612743,
   },
   {
     firstName: "Vlatko",
@@ -534,22 +360,10 @@ let ALLPLAYERS = [
     teamId: 1610612743,
   },
   {
-    firstName: "Devin",
-    lastName: "Cannady",
-    playerId: 1629962,
-    teamId: 0,
-  },
-  {
     firstName: "Clint",
     lastName: "Capela",
     playerId: 203991,
     teamId: 1610612737,
-  },
-  {
-    firstName: "Vernon",
-    lastName: "Carey Jr.",
-    playerId: 1630176,
-    teamId: 1610612766,
   },
   {
     firstName: "Jevon",
@@ -582,12 +396,6 @@ let ALLPLAYERS = [
     teamId: 1610612742,
   },
   {
-    firstName: "Chris",
-    lastName: "Chiozza",
-    playerId: 1629185,
-    teamId: 1610612751,
-  },
-  {
     firstName: "Marquese",
     lastName: "Chriss",
     playerId: 1627737,
@@ -610,12 +418,6 @@ let ALLPLAYERS = [
     lastName: "Clarkson",
     playerId: 203903,
     teamId: 1610612762,
-  },
-  {
-    firstName: "Nicolas",
-    lastName: "Claxton",
-    playerId: 1629651,
-    teamId: 1610612751,
   },
   {
     firstName: "Amir",
@@ -648,18 +450,6 @@ let ALLPLAYERS = [
     teamId: 1610612749,
   },
   {
-    firstName: "Quinn",
-    lastName: "Cook",
-    playerId: 1626188,
-    teamId: 0,
-  },
-  {
-    firstName: "Tyler",
-    lastName: "Cook",
-    playerId: 1629076,
-    teamId: 1610612765,
-  },
-  {
     firstName: "DeMarcus",
     lastName: "Cousins",
     playerId: 202326,
@@ -684,12 +474,6 @@ let ALLPLAYERS = [
     teamId: 1610612756,
   },
   {
-    firstName: "Jarrett",
-    lastName: "Culver",
-    playerId: 1629633,
-    teamId: 1610612750,
-  },
-  {
     firstName: "Seth",
     lastName: "Curry",
     playerId: 203552,
@@ -702,22 +486,10 @@ let ALLPLAYERS = [
     teamId: 1610612744,
   },
   {
-    firstName: "Nate",
-    lastName: "Darling",
-    playerId: 1630268,
-    teamId: 1610612766,
-  },
-  {
     firstName: "Anthony",
     lastName: "Davis",
     playerId: 203076,
     teamId: 1610612747,
-  },
-  {
-    firstName: "Ed",
-    lastName: "Davis",
-    playerId: 202334,
-    teamId: 1610612750,
   },
   {
     firstName: "Terence",
@@ -730,12 +502,6 @@ let ALLPLAYERS = [
     lastName: "DeRozan",
     playerId: 201942,
     teamId: 1610612759,
-  },
-  {
-    firstName: "Gabriel",
-    lastName: "Deck",
-    playerId: 1630466,
-    teamId: 1610612760,
   },
   {
     firstName: "Dewayne",
@@ -753,12 +519,6 @@ let ALLPLAYERS = [
     firstName: "Donte",
     lastName: "DiVincenzo",
     playerId: 1628978,
-    teamId: 1610612749,
-  },
-  {
-    firstName: "Mamadi",
-    lastName: "Diakite",
-    playerId: 1629603,
     teamId: 1610612749,
   },
   {
@@ -792,30 +552,6 @@ let ALLPLAYERS = [
     teamId: 1610612760,
   },
   {
-    firstName: "Damyean",
-    lastName: "Dotson",
-    playerId: 1628422,
-    teamId: 1610612739,
-  },
-  {
-    firstName: "Devon",
-    lastName: "Dotson",
-    playerId: 1629653,
-    teamId: 1610612741,
-  },
-  {
-    firstName: "Sekou",
-    lastName: "Doumbouya",
-    playerId: 1629635,
-    teamId: 1610612765,
-  },
-  {
-    firstName: "PJ",
-    lastName: "Dozier",
-    playerId: 1628408,
-    teamId: 1610612743,
-  },
-  {
     firstName: "Goran",
     lastName: "Dragic",
     playerId: 201609,
@@ -825,12 +561,6 @@ let ALLPLAYERS = [
     firstName: "Andre",
     lastName: "Drummond",
     playerId: 203083,
-    teamId: 1610612747,
-  },
-  {
-    firstName: "Jared",
-    lastName: "Dudley",
-    playerId: 201162,
     teamId: 1610612747,
   },
   {
@@ -852,24 +582,6 @@ let ALLPLAYERS = [
     teamId: 1610612750,
   },
   {
-    firstName: "Carsen",
-    lastName: "Edwards",
-    playerId: 1629035,
-    teamId: 1610612738,
-  },
-  {
-    firstName: "CJ",
-    lastName: "Elleby",
-    playerId: 1629604,
-    teamId: 1610612757,
-  },
-  {
-    firstName: "Henry",
-    lastName: "Ellenson",
-    playerId: 1627740,
-    teamId: 0,
-  },
-  {
     firstName: "Wayne",
     lastName: "Ellington",
     playerId: 201961,
@@ -882,28 +594,10 @@ let ALLPLAYERS = [
     teamId: 1610612755,
   },
   {
-    firstName: "James",
-    lastName: "Ennis III",
-    playerId: 203516,
-    teamId: 1610612753,
-  },
-  {
     firstName: "Drew",
     lastName: "Eubanks",
     playerId: 1629234,
     teamId: 1610612759,
-  },
-  {
-    firstName: "Dante",
-    lastName: "Exum",
-    playerId: 203957,
-    teamId: 1610612745,
-  },
-  {
-    firstName: "Tacko",
-    lastName: "Fall",
-    playerId: 1629605,
-    teamId: 1610612738,
   },
   {
     firstName: "Derrick",
@@ -912,58 +606,16 @@ let ALLPLAYERS = [
     teamId: 1610612762,
   },
   {
-    firstName: "Cristiano",
-    lastName: "Felicio",
-    playerId: 1626245,
-    teamId: 1610612741,
-  },
-  {
-    firstName: "Terrance",
-    lastName: "Ferguson",
-    playerId: 1628390,
-    teamId: 0,
-  },
-  {
     firstName: "Bruno",
     lastName: "Fernando",
     playerId: 1628981,
     teamId: 1610612737,
   },
   {
-    firstName: "Yogi",
-    lastName: "Ferrell",
-    playerId: 1627812,
-    teamId: 1610612746,
-  },
-  {
     firstName: "Dorian",
     lastName: "Finney-Smith",
     playerId: 1627827,
     teamId: 1610612742,
-  },
-  {
-    firstName: "Malik",
-    lastName: "Fitts",
-    playerId: 1630238,
-    teamId: 0,
-  },
-  {
-    firstName: "Malachi",
-    lastName: "Flynn",
-    playerId: 1630201,
-    teamId: 1610612761,
-  },
-  {
-    firstName: "Bryn",
-    lastName: "Forbes",
-    playerId: 1627854,
-    teamId: 1610612749,
-  },
-  {
-    firstName: "Trent",
-    lastName: "Forrest",
-    playerId: 1630235,
-    teamId: 1610612762,
   },
   {
     firstName: "Evan",
@@ -976,18 +628,6 @@ let ALLPLAYERS = [
     lastName: "Fox",
     playerId: 1628368,
     teamId: 1610612758,
-  },
-  {
-    firstName: "Robert",
-    lastName: "Franks",
-    playerId: 1629606,
-    teamId: 0,
-  },
-  {
-    firstName: "Tim",
-    lastName: "Frazier",
-    playerId: 204025,
-    teamId: 1610612763,
   },
   {
     firstName: "Markelle",
@@ -1012,12 +652,6 @@ let ALLPLAYERS = [
     lastName: "Gallinari",
     playerId: 201568,
     teamId: 1610612737,
-  },
-  {
-    firstName: "Langston",
-    lastName: "Galloway",
-    playerId: 204038,
-    teamId: 1610612756,
   },
   {
     firstName: "Darius",
@@ -1068,12 +702,6 @@ let ALLPLAYERS = [
     teamId: 1610612764,
   },
   {
-    firstName: "Freddie",
-    lastName: "Gillespie",
-    playerId: 1630273,
-    teamId: 1610612761,
-  },
-  {
     firstName: "Rudy",
     lastName: "Gobert",
     playerId: 203497,
@@ -1096,12 +724,6 @@ let ALLPLAYERS = [
     lastName: "Gordon",
     playerId: 201569,
     teamId: 1610612745,
-  },
-  {
-    firstName: "Devonte'",
-    lastName: "Graham",
-    playerId: 1628984,
-    teamId: 1610612766,
   },
   {
     firstName: "Jerami",
@@ -1152,40 +774,16 @@ let ALLPLAYERS = [
     teamId: 1610612751,
   },
   {
-    firstName: "Kyle",
-    lastName: "Guy",
-    playerId: 1629657,
-    teamId: 1610612758,
-  },
-  {
     firstName: "Rui",
     lastName: "Hachimura",
     playerId: 1629060,
     teamId: 1610612764,
   },
   {
-    firstName: "Ashton",
-    lastName: "Hagans",
-    playerId: 1630204,
-    teamId: 0,
-  },
-  {
     firstName: "Tyrese",
     lastName: "Haliburton",
     playerId: 1630169,
     teamId: 1610612758,
-  },
-  {
-    firstName: "Donta",
-    lastName: "Hall",
-    playerId: 1629743,
-    teamId: 1610612753,
-  },
-  {
-    firstName: "Josh",
-    lastName: "Hall",
-    playerId: 1630221,
-    teamId: 1610612760,
   },
   {
     firstName: "R.J.",
@@ -1212,12 +810,6 @@ let ALLPLAYERS = [
     teamId: 1610612758,
   },
   {
-    firstName: "Jared",
-    lastName: "Harper",
-    playerId: 1629607,
-    teamId: 1610612752,
-  },
-  {
     firstName: "Montrezl",
     lastName: "Harrell",
     playerId: 1626149,
@@ -1228,12 +820,6 @@ let ALLPLAYERS = [
     lastName: "Harris",
     playerId: 203914,
     teamId: 1610612753,
-  },
-  {
-    firstName: "Jalen",
-    lastName: "Harris",
-    playerId: 1630223,
-    teamId: 1610612761,
   },
   {
     firstName: "Joe",
@@ -1266,12 +852,6 @@ let ALLPLAYERS = [
     teamId: 1610612739,
   },
   {
-    firstName: "Udonis",
-    lastName: "Haslem",
-    playerId: 2617,
-    teamId: 1610612748,
-  },
-  {
     firstName: "Jaxson",
     lastName: "Hayes",
     playerId: 1629637,
@@ -1288,12 +868,6 @@ let ALLPLAYERS = [
     lastName: "Hayward",
     playerId: 202330,
     teamId: 1610612766,
-  },
-  {
-    firstName: "Juancho",
-    lastName: "Hernangomez",
-    playerId: 1627823,
-    teamId: 1610612750,
   },
   {
     firstName: "Willy",
@@ -1318,24 +892,6 @@ let ALLPLAYERS = [
     lastName: "Hill",
     playerId: 201588,
     teamId: 1610612755,
-  },
-  {
-    firstName: "Solomon",
-    lastName: "Hill",
-    playerId: 203524,
-    teamId: 1610612737,
-  },
-  {
-    firstName: "Nate",
-    lastName: "Hinton",
-    playerId: 1630207,
-    teamId: 1610612742,
-  },
-  {
-    firstName: "Jaylen",
-    lastName: "Hoard",
-    playerId: 1629658,
-    teamId: 1610612760,
   },
   {
     firstName: "Aaron",
@@ -1368,12 +924,6 @@ let ALLPLAYERS = [
     teamId: 1610612758,
   },
   {
-    firstName: "Rodney",
-    lastName: "Hood",
-    playerId: 203918,
-    teamId: 1610612761,
-  },
-  {
     firstName: "Al",
     lastName: "Horford",
     playerId: 201143,
@@ -1398,22 +948,10 @@ let ALLPLAYERS = [
     teamId: 1610612755,
   },
   {
-    firstName: "Markus",
-    lastName: "Howard",
-    playerId: 1630210,
-    teamId: 1610612743,
-  },
-  {
     firstName: "Kevin",
     lastName: "Huerter",
     playerId: 1628989,
     teamId: 1610612737,
-  },
-  {
-    firstName: "Elijah",
-    lastName: "Hughes",
-    playerId: 1630190,
-    teamId: 1610612762,
   },
   {
     firstName: "De'Andre",
@@ -1422,28 +960,10 @@ let ALLPLAYERS = [
     teamId: 1610612737,
   },
   {
-    firstName: "Chandler",
-    lastName: "Hutchison",
-    playerId: 1628990,
-    teamId: 1610612764,
-  },
-  {
-    firstName: "Serge",
-    lastName: "Ibaka",
-    playerId: 201586,
-    teamId: 1610612746,
-  },
-  {
     firstName: "Andre",
     lastName: "Iguodala",
     playerId: 2738,
     teamId: 1610612748,
-  },
-  {
-    firstName: "Ersan",
-    lastName: "Ilyasova",
-    playerId: 101141,
-    teamId: 1610612762,
   },
   {
     firstName: "Joe",
@@ -1458,40 +978,10 @@ let ALLPLAYERS = [
     teamId: 1610612740,
   },
   {
-    firstName: "Kyrie",
-    lastName: "Irving",
-    playerId: 202681,
-    teamId: 1610612751,
-  },
-  {
-    firstName: "Jonathan",
-    lastName: "Isaac",
-    playerId: 1628371,
-    teamId: 1610612753,
-  },
-  {
-    firstName: "Wes",
-    lastName: "Iwundu",
-    playerId: 1628411,
-    teamId: 1610612740,
-  },
-  {
-    firstName: "Frank",
-    lastName: "Jackson",
-    playerId: 1628402,
-    teamId: 1610612765,
-  },
-  {
     firstName: "Josh",
     lastName: "Jackson",
     playerId: 1628367,
     teamId: 1610612765,
-  },
-  {
-    firstName: "Justin",
-    lastName: "Jackson",
-    playerId: 1628382,
-    teamId: 1610612749,
   },
   {
     firstName: "Reggie",
@@ -1506,46 +996,16 @@ let ALLPLAYERS = [
     teamId: 1610612763,
   },
   {
-    firstName: "Justin",
-    lastName: "James",
-    playerId: 1629713,
-    teamId: 1610612758,
-  },
-  {
     firstName: "LeBron",
     lastName: "James",
     playerId: 2544,
     teamId: 1610612747,
   },
   {
-    firstName: "Mike",
-    lastName: "James",
-    playerId: 1628455,
-    teamId: 1610612751,
-  },
-  {
-    firstName: "DaQuan",
-    lastName: "Jeffries",
-    playerId: 1629610,
-    teamId: 0,
-  },
-  {
-    firstName: "Ty",
-    lastName: "Jerome",
-    playerId: 1629660,
-    teamId: 1610612760,
-  },
-  {
     firstName: "Isaiah",
     lastName: "Joe",
     playerId: 1630198,
     teamId: 1610612755,
-  },
-  {
-    firstName: "Alize",
-    lastName: "Johnson",
-    playerId: 1628993,
-    teamId: 1610612751,
   },
   {
     firstName: "Cameron",
@@ -1566,18 +1026,6 @@ let ALLPLAYERS = [
     teamId: 1610612759,
   },
   {
-    firstName: "Stanley",
-    lastName: "Johnson",
-    playerId: 1626169,
-    teamId: 1610612761,
-  },
-  {
-    firstName: "Tyler",
-    lastName: "Johnson",
-    playerId: 204020,
-    teamId: 1610612751,
-  },
-  {
     firstName: "Nikola",
     lastName: "Jokic",
     playerId: 203999,
@@ -1588,18 +1036,6 @@ let ALLPLAYERS = [
     lastName: "Jones",
     playerId: 1627745,
     teamId: 1610612758,
-  },
-  {
-    firstName: "Mason",
-    lastName: "Jones",
-    playerId: 1630222,
-    teamId: 0,
-  },
-  {
-    firstName: "Tre",
-    lastName: "Jones",
-    playerId: 1630200,
-    teamId: 1610612759,
   },
   {
     firstName: "Tyus",
@@ -1626,22 +1062,10 @@ let ALLPLAYERS = [
     teamId: 1610612765,
   },
   {
-    firstName: "Mfiondu",
-    lastName: "Kabengele",
-    playerId: 1629662,
-    teamId: 1610612739,
-  },
-  {
     firstName: "Frank",
     lastName: "Kaminsky",
     playerId: 1626163,
     teamId: 1610612756,
-  },
-  {
-    firstName: "Enes",
-    lastName: "Kanter",
-    playerId: 202683,
-    teamId: 1610612757,
   },
   {
     firstName: "Luke",
@@ -1650,22 +1074,10 @@ let ALLPLAYERS = [
     teamId: 1610612746,
   },
   {
-    firstName: "Louis",
-    lastName: "King",
-    playerId: 1629663,
-    teamId: 1610612758,
-  },
-  {
     firstName: "Maxi",
     lastName: "Kleber",
     playerId: 1628467,
     teamId: 1610612742,
-  },
-  {
-    firstName: "Nathan",
-    lastName: "Knight",
-    playerId: 1630233,
-    teamId: 1610612737,
   },
   {
     firstName: "Kevin",
@@ -1692,12 +1104,6 @@ let ALLPLAYERS = [
     teamId: 1610612738,
   },
   {
-    firstName: "Rodions",
-    lastName: "Kurucs",
-    playerId: 1629066,
-    teamId: 0,
-  },
-  {
     firstName: "Kyle",
     lastName: "Kuzma",
     playerId: 1628398,
@@ -1708,12 +1114,6 @@ let ALLPLAYERS = [
     lastName: "LaVine",
     playerId: 203897,
     teamId: 1610612741,
-  },
-  {
-    firstName: "Anthony",
-    lastName: "Lamb",
-    playerId: 1630237,
-    teamId: 1610612745,
   },
   {
     firstName: "Jeremy",
@@ -1740,28 +1140,10 @@ let ALLPLAYERS = [
     teamId: 1610612754,
   },
   {
-    firstName: "T.J.",
-    lastName: "Leaf",
-    playerId: 1628388,
-    teamId: 1610612757,
-  },
-  {
-    firstName: "Jalen",
-    lastName: "Lecque",
-    playerId: 1629665,
-    teamId: 0,
-  },
-  {
     firstName: "Damion",
     lastName: "Lee",
     playerId: 1627814,
     teamId: 1610612744,
-  },
-  {
-    firstName: "Saben",
-    lastName: "Lee",
-    playerId: 1630240,
-    teamId: 1610612765,
   },
   {
     firstName: "Alex",
@@ -1774,18 +1156,6 @@ let ALLPLAYERS = [
     lastName: "Leonard",
     playerId: 202695,
     teamId: 1610612746,
-  },
-  {
-    firstName: "Meyers",
-    lastName: "Leonard",
-    playerId: 203086,
-    teamId: 0,
-  },
-  {
-    firstName: "Kira",
-    lastName: "Lewis Jr.",
-    playerId: 1630184,
-    teamId: 1610612740,
   },
   {
     firstName: "Damian",
@@ -1818,12 +1188,6 @@ let ALLPLAYERS = [
     teamId: 1610612764,
   },
   {
-    firstName: "Didi",
-    lastName: "Louzada",
-    playerId: 1629712,
-    teamId: 1610612740,
-  },
-  {
     firstName: "Kevin",
     lastName: "Love",
     playerId: 201567,
@@ -1848,40 +1212,16 @@ let ALLPLAYERS = [
     teamId: 1610612759,
   },
   {
-    firstName: "Will",
-    lastName: "Magnay",
-    playerId: 1630266,
-    teamId: 0,
-  },
-  {
-    firstName: "Thon",
-    lastName: "Maker",
-    playerId: 1627748,
-    teamId: 0,
-  },
-  {
     firstName: "Theo",
     lastName: "Maledon",
     playerId: 1630177,
     teamId: 1610612760,
   },
   {
-    firstName: "Karim",
-    lastName: "Mane",
-    playerId: 1630211,
-    teamId: 0,
-  },
-  {
     firstName: "Terance",
     lastName: "Mann",
     playerId: 1629611,
     teamId: 1610612746,
-  },
-  {
-    firstName: "Nico",
-    lastName: "Mannion",
-    playerId: 1630185,
-    teamId: 1610612744,
   },
   {
     firstName: "Boban",
@@ -1896,12 +1236,6 @@ let ALLPLAYERS = [
     teamId: 1610612741,
   },
   {
-    firstName: "Naji",
-    lastName: "Marshall",
-    playerId: 1630230,
-    teamId: 1610612740,
-  },
-  {
     firstName: "Caleb",
     lastName: "Martin",
     playerId: 1628997,
@@ -1914,40 +1248,16 @@ let ALLPLAYERS = [
     teamId: 1610612766,
   },
   {
-    firstName: "Jeremiah",
-    lastName: "Martin",
-    playerId: 1629725,
-    teamId: 1610612739,
-  },
-  {
-    firstName: "Kelan",
-    lastName: "Martin",
-    playerId: 1629103,
-    teamId: 1610612754,
-  },
-  {
     firstName: "Kenyon",
     lastName: "Martin Jr.",
     playerId: 1630231,
     teamId: 1610612745,
   },
   {
-    firstName: "Frank",
-    lastName: "Mason",
-    playerId: 1628412,
-    teamId: 0,
-  },
-  {
     firstName: "Garrison",
     lastName: "Mathews",
     playerId: 1629726,
     teamId: 1610612764,
-  },
-  {
-    firstName: "Dakota",
-    lastName: "Mathias",
-    playerId: 1629751,
-    teamId: 0,
   },
   {
     firstName: "Wesley",
@@ -1960,18 +1270,6 @@ let ALLPLAYERS = [
     lastName: "Maxey",
     playerId: 1630178,
     teamId: 1610612755,
-  },
-  {
-    firstName: "Skylar",
-    lastName: "Mays",
-    playerId: 1630219,
-    teamId: 1610612737,
-  },
-  {
-    firstName: "Patrick",
-    lastName: "McCaw",
-    playerId: 1627775,
-    teamId: 0,
   },
   {
     firstName: "CJ",
@@ -2004,28 +1302,10 @@ let ALLPLAYERS = [
     teamId: 1610612754,
   },
   {
-    firstName: "Sean",
-    lastName: "McDermott",
-    playerId: 1630253,
-    teamId: 1610612763,
-  },
-  {
     firstName: "JaVale",
     lastName: "McGee",
     playerId: 201580,
     teamId: 1610612743,
-  },
-  {
-    firstName: "Rodney",
-    lastName: "McGruder",
-    playerId: 203585,
-    teamId: 1610612765,
-  },
-  {
-    firstName: "Alfonzo",
-    lastName: "McKinnie",
-    playerId: 1628035,
-    teamId: 1610612747,
   },
   {
     firstName: "Jordan",
@@ -2034,28 +1314,10 @@ let ALLPLAYERS = [
     teamId: 1610612750,
   },
   {
-    firstName: "Ben",
-    lastName: "McLemore",
-    playerId: 203463,
-    teamId: 1610612747,
-  },
-  {
-    firstName: "Nicolo",
-    lastName: "Melli",
-    playerId: 1629740,
-    teamId: 1610612742,
-  },
-  {
     firstName: "De'Anthony",
     lastName: "Melton",
     playerId: 1629001,
     teamId: 1610612763,
-  },
-  {
-    firstName: "Sam",
-    lastName: "Merrill",
-    playerId: 1630241,
-    teamId: 1610612749,
   },
   {
     firstName: "Chimezie",
@@ -2068,12 +1330,6 @@ let ALLPLAYERS = [
     lastName: "Middleton",
     playerId: 203114,
     teamId: 1610612749,
-  },
-  {
-    firstName: "Darius",
-    lastName: "Miller",
-    playerId: 203121,
-    teamId: 0,
   },
   {
     firstName: "Patty",
@@ -2100,34 +1356,16 @@ let ALLPLAYERS = [
     teamId: 1610612762,
   },
   {
-    firstName: "Adam",
-    lastName: "Mokoka",
-    playerId: 1629690,
-    teamId: 1610612741,
-  },
-  {
     firstName: "Malik",
     lastName: "Monk",
     playerId: 1628370,
     teamId: 1610612766,
   },
   {
-    firstName: "E'Twaun",
-    lastName: "Moore",
-    playerId: 202734,
-    teamId: 1610612756,
-  },
-  {
     firstName: "Ja",
     lastName: "Morant",
     playerId: 1629630,
     teamId: 1610612763,
-  },
-  {
-    firstName: "Juwan",
-    lastName: "Morgan",
-    playerId: 1629752,
-    teamId: 1610612762,
   },
   {
     firstName: "Markieff",
@@ -2146,12 +1384,6 @@ let ALLPLAYERS = [
     lastName: "Morris Sr.",
     playerId: 202694,
     teamId: 1610612746,
-  },
-  {
-    firstName: "Mychal",
-    lastName: "Mulder",
-    playerId: 1628539,
-    teamId: 1610612744,
   },
   {
     firstName: "Dejounte",
@@ -2178,12 +1410,6 @@ let ALLPLAYERS = [
     teamId: 1610612760,
   },
   {
-    firstName: "Abdel",
-    lastName: "Nader",
-    playerId: 1627846,
-    teamId: 1610612756,
-  },
-  {
     firstName: "Larry",
     lastName: "Nance Jr.",
     playerId: 1626204,
@@ -2208,18 +1434,6 @@ let ALLPLAYERS = [
     teamId: 1610612762,
   },
   {
-    firstName: "Zeke",
-    lastName: "Nnaji",
-    playerId: 1630192,
-    teamId: 1610612743,
-  },
-  {
-    firstName: "Nerlens",
-    lastName: "Noel",
-    playerId: 203457,
-    teamId: 1610612752,
-  },
-  {
     firstName: "Jaylen",
     lastName: "Nowell",
     playerId: 1629669,
@@ -2236,12 +1450,6 @@ let ALLPLAYERS = [
     lastName: "Nunn",
     playerId: 1629134,
     teamId: 1610612748,
-  },
-  {
-    firstName: "James",
-    lastName: "Nunnally",
-    playerId: 203263,
-    teamId: 1610612740,
   },
   {
     firstName: "Jusuf",
@@ -2268,24 +1476,6 @@ let ALLPLAYERS = [
     teamId: 1610612762,
   },
   {
-    firstName: "Semi",
-    lastName: "Ojeleye",
-    playerId: 1628400,
-    teamId: 1610612738,
-  },
-  {
-    firstName: "Jahlil",
-    lastName: "Okafor",
-    playerId: 1626143,
-    teamId: 1610612765,
-  },
-  {
-    firstName: "Chuma",
-    lastName: "Okeke",
-    playerId: 1629643,
-    teamId: 1610612753,
-  },
-  {
     firstName: "Josh",
     lastName: "Okogie",
     playerId: 1629006,
@@ -2304,22 +1494,10 @@ let ALLPLAYERS = [
     teamId: 1610612739,
   },
   {
-    firstName: "KZ",
-    lastName: "Okpala",
-    playerId: 1629644,
-    teamId: 1610612748,
-  },
-  {
     firstName: "Victor",
     lastName: "Oladipo",
     playerId: 203506,
     teamId: 1610612748,
-  },
-  {
-    firstName: "Cameron",
-    lastName: "Oliver",
-    playerId: 1628419,
-    teamId: 1610612745,
   },
   {
     firstName: "Kelly",
@@ -2328,22 +1506,10 @@ let ALLPLAYERS = [
     teamId: 1610612745,
   },
   {
-    firstName: "Miye",
-    lastName: "Oni",
-    playerId: 1629671,
-    teamId: 1610612762,
-  },
-  {
     firstName: "Cedi",
     lastName: "Osman",
     playerId: 1626224,
     teamId: 1610612739,
-  },
-  {
-    firstName: "Daniel",
-    lastName: "Oturu",
-    playerId: 1630187,
-    teamId: 1610612746,
   },
   {
     firstName: "Kelly",
@@ -2352,34 +1518,10 @@ let ALLPLAYERS = [
     teamId: 1610612744,
   },
   {
-    firstName: "Jabari",
-    lastName: "Parker",
-    playerId: 203953,
-    teamId: 1610612738,
-  },
-  {
     firstName: "Eric",
     lastName: "Paschall",
     playerId: 1629672,
     teamId: 1610612744,
-  },
-  {
-    firstName: "Anzejs",
-    lastName: "Pasecniks",
-    playerId: 1628394,
-    teamId: 0,
-  },
-  {
-    firstName: "Patrick",
-    lastName: "Patterson",
-    playerId: 202335,
-    teamId: 1610612746,
-  },
-  {
-    firstName: "Justin",
-    lastName: "Patton",
-    playerId: 1628383,
-    teamId: 0,
   },
   {
     firstName: "Chris",
@@ -2394,34 +1536,10 @@ let ALLPLAYERS = [
     teamId: 1610612756,
   },
   {
-    firstName: "Elfrid",
-    lastName: "Payton",
-    playerId: 203901,
-    teamId: 1610612752,
-  },
-  {
     firstName: "Gary",
     lastName: "Payton II",
     playerId: 1627780,
     teamId: 0,
-  },
-  {
-    firstName: "Norvel",
-    lastName: "Pelle",
-    playerId: 203658,
-    teamId: 1610612752,
-  },
-  {
-    firstName: "Reggie",
-    lastName: "Perry",
-    playerId: 1629617,
-    teamId: 1610612751,
-  },
-  {
-    firstName: "Theo",
-    lastName: "Pinson",
-    playerId: 1629033,
-    teamId: 1610612752,
   },
   {
     firstName: "Mason",
@@ -2436,40 +1554,16 @@ let ALLPLAYERS = [
     teamId: 1610612759,
   },
   {
-    firstName: "Vincent",
-    lastName: "Poirier",
-    playerId: 1629738,
-    teamId: 0,
-  },
-  {
-    firstName: "Aleksej",
-    lastName: "Pokusevski",
-    playerId: 1630197,
-    teamId: 1610612760,
-  },
-  {
     firstName: "Jordan",
     lastName: "Poole",
     playerId: 1629673,
     teamId: 1610612744,
   },
   {
-    firstName: "Jontay",
-    lastName: "Porter",
-    playerId: 1629007,
-    teamId: 1610612763,
-  },
-  {
     firstName: "Kevin",
     lastName: "Porter Jr.",
     playerId: 1629645,
     teamId: 1610612745,
-  },
-  {
-    firstName: "Michael",
-    lastName: "Porter Jr.",
-    playerId: 1629008,
-    teamId: 1610612743,
   },
   {
     firstName: "Otto",
@@ -2508,28 +1602,10 @@ let ALLPLAYERS = [
     teamId: 1610612739,
   },
   {
-    firstName: "Payton",
-    lastName: "Pritchard",
-    playerId: 1630202,
-    teamId: 1610612738,
-  },
-  {
     firstName: "Immanuel",
     lastName: "Quickley",
     playerId: 1630193,
     teamId: 1610612752,
-  },
-  {
-    firstName: "Jahmi'us",
-    lastName: "Ramsey",
-    playerId: 1630186,
-    teamId: 1610612758,
-  },
-  {
-    firstName: "Chasson",
-    lastName: "Randle",
-    playerId: 1626184,
-    teamId: 1610612753,
   },
   {
     firstName: "Julius",
@@ -2562,12 +1638,6 @@ let ALLPLAYERS = [
     teamId: 1610612750,
   },
   {
-    firstName: "Cameron",
-    lastName: "Reynolds",
-    playerId: 1629244,
-    teamId: 1610612745,
-  },
-  {
     firstName: "Nick",
     lastName: "Richards",
     playerId: 1630208,
@@ -2580,22 +1650,10 @@ let ALLPLAYERS = [
     teamId: 1610612742,
   },
   {
-    firstName: "Grant",
-    lastName: "Riller",
-    playerId: 1630203,
-    teamId: 1610612766,
-  },
-  {
     firstName: "Austin",
     lastName: "Rivers",
     playerId: 203085,
     teamId: 1610612743,
-  },
-  {
-    firstName: "Andre",
-    lastName: "Roberson",
-    playerId: 203460,
-    teamId: 0,
   },
   {
     firstName: "Duncan",
@@ -2604,28 +1662,10 @@ let ALLPLAYERS = [
     teamId: 1610612748,
   },
   {
-    firstName: "Jerome",
-    lastName: "Robinson",
-    playerId: 1629010,
-    teamId: 0,
-  },
-  {
-    firstName: "Justin",
-    lastName: "Robinson",
-    playerId: 1629620,
-    teamId: 0,
-  },
-  {
     firstName: "Mitchell",
     lastName: "Robinson",
     playerId: 1629011,
     teamId: 1610612752,
-  },
-  {
-    firstName: "Glenn",
-    lastName: "Robinson III",
-    playerId: 203922,
-    teamId: 0,
   },
   {
     firstName: "Isaiah",
@@ -2676,18 +1716,6 @@ let ALLPLAYERS = [
     teamId: 1610612754,
   },
   {
-    firstName: "Luka",
-    lastName: "Samanic",
-    playerId: 1629677,
-    teamId: 1610612759,
-  },
-  {
-    firstName: "JaKarr",
-    lastName: "Sampson",
-    playerId: 203960,
-    teamId: 1610612754,
-  },
-  {
     firstName: "Dario",
     lastName: "Saric",
     playerId: 203967,
@@ -2712,12 +1740,6 @@ let ALLPLAYERS = [
     teamId: 1610612755,
   },
   {
-    firstName: "Jay",
-    lastName: "Scrubb",
-    playerId: 1630206,
-    teamId: 1610612746,
-  },
-  {
     firstName: "Collin",
     lastName: "Sexton",
     playerId: 1629012,
@@ -2730,22 +1752,10 @@ let ALLPLAYERS = [
     teamId: 1610612751,
   },
   {
-    firstName: "Iman",
-    lastName: "Shumpert",
-    playerId: 202697,
-    teamId: 0,
-  },
-  {
     firstName: "Pascal",
     lastName: "Siakam",
     playerId: 1627783,
     teamId: 1610612761,
-  },
-  {
-    firstName: "Chris",
-    lastName: "Silva",
-    playerId: 1629735,
-    teamId: 0,
   },
   {
     firstName: "Ben",
@@ -2758,18 +1768,6 @@ let ALLPLAYERS = [
     lastName: "Simons",
     playerId: 1629014,
     teamId: 1610612757,
-  },
-  {
-    firstName: "Deividas",
-    lastName: "Sirvydis",
-    playerId: 1629686,
-    teamId: 1610612765,
-  },
-  {
-    firstName: "Alen",
-    lastName: "Smailagic",
-    playerId: 1629346,
-    teamId: 1610612744,
   },
   {
     firstName: "Marcus",
@@ -2802,18 +1800,6 @@ let ALLPLAYERS = [
     teamId: 1610612737,
   },
   {
-    firstName: "Ray",
-    lastName: "Spalding",
-    playerId: 1629034,
-    teamId: 0,
-  },
-  {
-    firstName: "Cassius",
-    lastName: "Stanley",
-    playerId: 1630199,
-    teamId: 1610612754,
-  },
-  {
     firstName: "Lamar",
     lastName: "Stevens",
     playerId: 1630205,
@@ -2838,12 +1824,6 @@ let ALLPLAYERS = [
     teamId: 1610612754,
   },
   {
-    firstName: "Jae'Sean",
-    lastName: "Tate",
-    playerId: 1630256,
-    teamId: 1610612745,
-  },
-  {
     firstName: "Jayson",
     lastName: "Tatum",
     playerId: 1628369,
@@ -2862,40 +1842,10 @@ let ALLPLAYERS = [
     teamId: 1610612741,
   },
   {
-    firstName: "Tyrell",
-    lastName: "Terry",
-    playerId: 1630179,
-    teamId: 1610612742,
-  },
-  {
     firstName: "Daniel",
     lastName: "Theis",
     playerId: 1628464,
     teamId: 1610612741,
-  },
-  {
-    firstName: "Brodric",
-    lastName: "Thomas",
-    playerId: 1630271,
-    teamId: 1610612739,
-  },
-  {
-    firstName: "Isaiah",
-    lastName: "Thomas",
-    playerId: 202738,
-    teamId: 0,
-  },
-  {
-    firstName: "Khyri",
-    lastName: "Thomas",
-    playerId: 1629017,
-    teamId: 1610612745,
-  },
-  {
-    firstName: "Matt",
-    lastName: "Thomas",
-    playerId: 1629744,
-    teamId: 1610612762,
   },
   {
     firstName: "Klay",
@@ -2910,22 +1860,10 @@ let ALLPLAYERS = [
     teamId: 1610612738,
   },
   {
-    firstName: "Sindarius",
-    lastName: "Thornwell",
-    playerId: 1628414,
-    teamId: 1610612753,
-  },
-  {
     firstName: "Matisse",
     lastName: "Thybulle",
     playerId: 1629680,
     teamId: 1610612755,
-  },
-  {
-    firstName: "Killian",
-    lastName: "Tillie",
-    playerId: 1629681,
-    teamId: 1610612763,
   },
   {
     firstName: "Xavier",
@@ -2952,12 +1890,6 @@ let ALLPLAYERS = [
     teamId: 1610612744,
   },
   {
-    firstName: "Axel",
-    lastName: "Toupane",
-    playerId: 1626253,
-    teamId: 1610612749,
-  },
-  {
     firstName: "Karl-Anthony",
     lastName: "Towns",
     playerId: 1626157,
@@ -2976,12 +1908,6 @@ let ALLPLAYERS = [
     teamId: 1610612749,
   },
   {
-    firstName: "Rayjon",
-    lastName: "Tucker",
-    playerId: 1629730,
-    teamId: 1610612755,
-  },
-  {
     firstName: "Myles",
     lastName: "Turner",
     playerId: 1626167,
@@ -2992,12 +1918,6 @@ let ALLPLAYERS = [
     lastName: "Valanciunas",
     playerId: 202685,
     teamId: 1610612763,
-  },
-  {
-    firstName: "Denzel",
-    lastName: "Valentine",
-    playerId: 1627756,
-    teamId: 1610612741,
   },
   {
     firstName: "Fred",
@@ -3012,34 +1932,16 @@ let ALLPLAYERS = [
     teamId: 1610612750,
   },
   {
-    firstName: "Anderson",
-    lastName: "Varejao",
-    playerId: 2760,
-    teamId: 1610612739,
-  },
-  {
     firstName: "Devin",
     lastName: "Vassell",
     playerId: 1630170,
     teamId: 1610612759,
   },
   {
-    firstName: "Luca",
-    lastName: "Vildoza",
-    playerId: 1630492,
-    teamId: 1610612752,
-  },
-  {
     firstName: "Gabe",
     lastName: "Vincent",
     playerId: 1629216,
     teamId: 1610612748,
-  },
-  {
-    firstName: "Noah",
-    lastName: "Vonleh",
-    playerId: 203943,
-    teamId: 0,
   },
   {
     firstName: "Nikola",
@@ -3060,28 +1962,10 @@ let ALLPLAYERS = [
     teamId: 1610612753,
   },
   {
-    firstName: "Kemba",
-    lastName: "Walker",
-    playerId: 202689,
-    teamId: 1610612738,
-  },
-  {
     firstName: "Lonnie",
     lastName: "Walker IV",
     playerId: 1629022,
     teamId: 1610612759,
-  },
-  {
-    firstName: "John",
-    lastName: "Wall",
-    playerId: 202322,
-    teamId: 1610612745,
-  },
-  {
-    firstName: "Brad",
-    lastName: "Wanamaker",
-    playerId: 202954,
-    teamId: 1610612766,
   },
   {
     firstName: "T.J.",
@@ -3100,24 +1984,6 @@ let ALLPLAYERS = [
     lastName: "Watanabe",
     playerId: 1629139,
     teamId: 1610612761,
-  },
-  {
-    firstName: "Tremont",
-    lastName: "Waters",
-    playerId: 1629682,
-    teamId: 1610612738,
-  },
-  {
-    firstName: "Paul",
-    lastName: "Watson",
-    playerId: 1628778,
-    teamId: 1610612761,
-  },
-  {
-    firstName: "Quinndary",
-    lastName: "Weatherspoon",
-    playerId: 1629683,
-    teamId: 1610612759,
   },
   {
     firstName: "Russell",
@@ -3142,12 +2008,6 @@ let ALLPLAYERS = [
     lastName: "Whiteside",
     playerId: 202355,
     teamId: 1610612758,
-  },
-  {
-    firstName: "Greg",
-    lastName: "Whittington",
-    playerId: 204222,
-    teamId: 0,
   },
   {
     firstName: "Andrew",
@@ -3186,52 +2046,16 @@ let ALLPLAYERS = [
     teamId: 1610612738,
   },
   {
-    firstName: "Zion",
-    lastName: "Williamson",
-    playerId: 1629627,
-    teamId: 1610612740,
-  },
-  {
-    firstName: "D.J.",
-    lastName: "Wilson",
-    playerId: 1628391,
-    teamId: 1610612745,
-  },
-  {
-    firstName: "Dylan",
-    lastName: "Windler",
-    playerId: 1629685,
-    teamId: 1610612739,
-  },
-  {
     firstName: "Justise",
     lastName: "Winslow",
     playerId: 1626159,
     teamId: 1610612763,
   },
   {
-    firstName: "Cassius",
-    lastName: "Winston",
-    playerId: 1630216,
-    teamId: 1610612764,
-  },
-  {
-    firstName: "James",
-    lastName: "Wiseman",
-    playerId: 1630164,
-    teamId: 1610612744,
-  },
-  {
     firstName: "Christian",
     lastName: "Wood",
     playerId: 1626174,
     teamId: 1610612745,
-  },
-  {
-    firstName: "Robert",
-    lastName: "Woodard II",
-    playerId: 1630218,
-    teamId: 1610612758,
   },
   {
     firstName: "Delon",
@@ -3250,12 +2074,6 @@ let ALLPLAYERS = [
     lastName: "Young",
     playerId: 1629027,
     teamId: 1610612737,
-  },
-  {
-    firstName: "Omer",
-    lastName: "Yurtseven",
-    playerId: 1630209,
-    teamId: 1610612748,
   },
   {
     firstName: "Cody",
